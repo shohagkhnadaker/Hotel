@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.carosel{
+
+    height: 200px !important;
+    overflow: hidden !important;
+    background-color: red;
+
+}
+
+#avality{
+    margin-top: -500px !important;
+}

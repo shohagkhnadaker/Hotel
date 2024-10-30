@@ -1,0 +1,65 @@
+
+* {
+    font-family: "Poppins", sans-serif;
+
+}
+
+.h-font {
+    font-family: "Merienda", sans-serif;
+
+}
+
+.navtext {
+    color: gold;
+    font-weight: 600;
+}
+
+.carousel {
+    width: 100%;
+    height: 400px !important;
+    overflow: hidden;
+}
+
+.carousel img {
+    width: 100%;
+    justify-content: center center;
+    align-items: center center;
+    overflow: hidden !important;
+}
+
+.bt-color {
+
+    background-color: gold;
+}
+.aler_css{
+    position: fixed;
+top: 80px !important;
+right: 100px;
+}
+#dashbord_minu{
+    position: fixed !important;
+    height: 100% !important;
+}
+
+@media screen and (max-width:991px) {
+    #dashbord_minu{
+        height: auto !important;
+        width: 100%;
+        
+    }
+    .main_content{
+        margin-top:50px !important;
+    }
+    #dasbord_text{
+        margin-top: 100px !important;
+    }
+};
+.active{
+    font-weight: bold;
+    color:red;
+}
+.dashbord_minu{
+    height: 100% !important;
+}
+
+
